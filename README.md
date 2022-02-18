@@ -58,4 +58,5 @@ See file `foobar.fix.spec.js`.
 ## Suspected file where the problems comes from
 
 https://github.com/mochajs/mocha/blob/master/lib/runner.js#L204
+
 PR: https://github.com/mochajs/mocha/pull/4489
