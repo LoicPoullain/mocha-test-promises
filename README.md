@@ -60,3 +60,7 @@ See file `foobar.fix.spec.js`.
 https://github.com/mochajs/mocha/blob/master/lib/runner.js#L204
 
 PR: https://github.com/mochajs/mocha/pull/4489
+
+Behavior introduced in [v8.2.1](https://github.com/mochajs/mocha/releases/tag/v8.2.1).
+
+Behavior is as expected in v8.2.0.
